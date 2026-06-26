@@ -1,0 +1,10 @@
+header:
+  version: 22
+
+  includes:
+  - kas-base.yml
+
+machine: qemux86-64
+
+target:
+  - core-image-minimal
